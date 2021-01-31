@@ -105,7 +105,7 @@ const Home = () => {
 								<div className="col-lg-6 col-md-6">
 									<div className="single-feature landscape">
 										<div className="icon one">
-											<img  src={process.env.PUBLIC_URL + 'assets/images/feature/icon1.png'} alt="" />
+											<img  src={process.env.PUBLIC_URL + '/assets/images/feature/icon1.png'} alt="" />
 										</div>
 										<div className="content">
 											<h4 className="title">
