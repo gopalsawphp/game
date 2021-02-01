@@ -1,29 +1,24 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.84a75d81.chunk.css",
-    "main.js": "/game/static/js/main.296e5c9e.chunk.js",
-    "main.js.map": "/game/static/js/main.296e5c9e.chunk.js.map",
+    "main.css": "/game/static/css/main.9b85b6cc.chunk.css",
+    "main.js": "/game/static/js/main.2b533ac0.chunk.js",
+    "main.js.map": "/game/static/js/main.2b533ac0.chunk.js.map",
     "runtime-main.js": "/game/static/js/runtime-main.076f9c1e.js",
     "runtime-main.js.map": "/game/static/js/runtime-main.076f9c1e.js.map",
-    "static/css/2.8738ce16.chunk.css": "/game/static/css/2.8738ce16.chunk.css",
-    "static/js/2.943d3843.chunk.js": "/game/static/js/2.943d3843.chunk.js",
-    "static/js/2.943d3843.chunk.js.map": "/game/static/js/2.943d3843.chunk.js.map",
+    "static/js/2.4bb38334.chunk.js": "/game/static/js/2.4bb38334.chunk.js",
+    "static/js/2.4bb38334.chunk.js.map": "/game/static/js/2.4bb38334.chunk.js.map",
     "index.html": "/game/index.html",
-    "static/css/2.8738ce16.chunk.css.map": "/game/static/css/2.8738ce16.chunk.css.map",
-    "static/css/main.84a75d81.chunk.css.map": "/game/static/css/main.84a75d81.chunk.css.map",
-    "static/js/2.943d3843.chunk.js.LICENSE.txt": "/game/static/js/2.943d3843.chunk.js.LICENSE.txt",
+    "static/css/main.9b85b6cc.chunk.css.map": "/game/static/css/main.9b85b6cc.chunk.css.map",
+    "static/js/2.4bb38334.chunk.js.LICENSE.txt": "/game/static/js/2.4bb38334.chunk.js.LICENSE.txt",
     "static/media/about.3f489207.png": "/game/static/media/about.3f489207.png",
     "static/media/contact.1cfc4028.png": "/game/static/media/contact.1cfc4028.png",
-    "static/media/desktop-hero-image.d1375c45.webp": "/game/static/media/desktop-hero-image.d1375c45.webp",
-    "static/media/font-awesome.min.css": "/game/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/invoice-format-header.021cf5a6.webp": "/game/static/media/invoice-format-header.021cf5a6.webp",
+    "static/media/get-start.9dcfd10f.png": "/game/static/media/get-start.9dcfd10f.png",
     "static/media/lottery.70ce3919.png": "/game/static/media/lottery.70ce3919.png"
   },
   "entrypoints": [
     "static/js/runtime-main.076f9c1e.js",
-    "static/css/2.8738ce16.chunk.css",
-    "static/js/2.943d3843.chunk.js",
-    "static/css/main.84a75d81.chunk.css",
-    "static/js/main.296e5c9e.chunk.js"
+    "static/js/2.4bb38334.chunk.js",
+    "static/css/main.9b85b6cc.chunk.css",
+    "static/js/main.2b533ac0.chunk.js"
   ]
 }
